@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=amirasolimanahmed&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=amirasolimanahmed&color=blueviolet)
 
 ## Hi there 👋 I'm Amira Soliman
 
