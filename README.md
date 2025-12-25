@@ -51,7 +51,7 @@ Specialized in **API Security, BDD, Infrastructure Testing**, **OWASP**, and **I
 ---
 
 ### 📫 Contact
-- 💼 LinkedIn: *(add your LinkedIn link here)*
+- 💼 LinkedIn: *(https://www.linkedin.com/in/amira-soliman-a12603b/)*
 - 📧 Email: *(optional)*
 
 ---
