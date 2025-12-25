@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=amirasolimanahmed&color=purple)
+![Profile Views](https://komarev.com/ghpvc/?username=amirasolimanahmed&color=green)
 
