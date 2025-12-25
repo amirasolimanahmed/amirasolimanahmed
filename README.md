@@ -1,6 +1,8 @@
-![Profile Views](https://komarev.com/ghpvc/?username=amirasolimanahmed&color=blueviolet&style=for-the-badge	)
 
 ## Hi there 👋 I'm Amira Soliman
+
+![Profile Views](https://komarev.com/ghpvc/?username=amirasolimanahmed&color=blueviolet&style=for-the-badge	)
+
 
 🔐 **Security-focused QA & Test Engineer**  
 Specialized in **API Security, BDD, Infrastructure Testing**, **OWASP**, and **ISO/IEC 27001:2022**
