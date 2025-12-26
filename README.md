@@ -3,6 +3,12 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=amirasolimanahmed&color=blueviolet&style=for-the-badge	)
 
+![OWASP](https://img.shields.io/badge/OWASP-Contributor-green)
+![Security](https://img.shields.io/badge/Security-API%20%7C%20Web-blue)
+![ISO](https://img.shields.io/badge/ISO%2027001-Practitioner-orange)
+![BDD](https://img.shields.io/badge/BDD-Gherkin%20%7C%20Robot-purple)
+
+
 
 🔐 **Security-focused QA & Test Engineer**  
 Specialized in **API Security, BDD, Infrastructure Testing**, **OWASP**, and **ISO/IEC 27001:2022**
