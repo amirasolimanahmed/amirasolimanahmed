@@ -13,7 +13,7 @@
 
 ## 📊 GitHub Stats
 
-![Amira's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirasolimanahmed&show_icons=true&hide_border=true&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirasolimanahmed&show_icons=true)
 
 
 
