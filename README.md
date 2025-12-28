@@ -13,11 +13,8 @@
 
 ## 📊 GitHub Stats
 
-![Amira's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirasolimanahmed&show_icons=true&theme=github_dark&hide_border=true)
+![Amira's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirasolimanahmed&show_icons=true&hide_border=true&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amirasolimanahmed&layout=compact&theme=github_dark&hide_border=true)
-
-![Profile Views](https://komarev.com/ghpvc/?username=amirasolimanahmed&color=purple)
 
 
 
