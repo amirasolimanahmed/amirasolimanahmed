@@ -10,6 +10,7 @@
 ![Infrastructure](https://img.shields.io/badge/Infrastructure-Testing%20%7C%20Hardening-darkgreen)
 ![Performance](https://img.shields.io/badge/Performance-JMeter%20%7C%20Load%20Testing-red)
 ![DevOps](https://img.shields.io/badge/DevOps-Foundation-yellow)
+![Amira's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirasolimanahmed&show_icons=true&theme=github_dark)
 
 
 
