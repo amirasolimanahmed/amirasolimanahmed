@@ -11,12 +11,6 @@
 ![Performance](https://img.shields.io/badge/Performance-JMeter%20%7C%20Load%20Testing-red)
 ![DevOps](https://img.shields.io/badge/DevOps-Foundation-yellow)
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirasolimanahmed&show_icons=true)
-
-
-
 
 
 🔐 **Security-focused QA & Test Engineer**  
